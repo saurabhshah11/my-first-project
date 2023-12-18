@@ -1,4 +1,4 @@
-const foodItem= [
+const  foodItem= [
     {
     id: 1,
     name: 'Ambur Biryani',
