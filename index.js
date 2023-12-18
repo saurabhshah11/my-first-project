@@ -1,4 +1,4 @@
-import {foodItem} from './fooditem.js'
+ import {foodItem} from './fooditem.js'
 
 function displayItems(){
     var biryani= document.getElementById('biryani');
@@ -93,6 +93,7 @@ function displayItems(){
         itemCard.appendChild(img);
         itemCard.appendChild(itemName);
         itemCard.appendChild(itemPrice);
+
         
         chicken.appendChild(itemCard)
 
